@@ -1,3 +1,2 @@
-let hello = "HelloWorld";
-console.log(hello);
-//update
+let input = prompt("User input here");
+console.log(input);
